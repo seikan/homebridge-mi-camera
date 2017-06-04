@@ -1,0 +1,17 @@
+{
+	"bridge": {
+		"name": "Homebridge",
+		"username": "CC:22:3D:E3:CE:30",
+		"port": 51826,
+		"pin": "123-45-568"
+	},
+
+	"accessories": [
+		{
+			"accessory": "MiCamera",
+			"name": "Mi Camera",
+			"ip": "192.168.1.203",
+			"token": "3574645a6a52526447566b4e69484e42"
+		}
+	]
+}
