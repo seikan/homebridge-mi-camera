@@ -1,6 +1,6 @@
 {
   "name": "homebridge-mi-camera",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Xiaomi Mi camera plugin for Homebridge.",
   "license": "MIT",
   "keywords": [
